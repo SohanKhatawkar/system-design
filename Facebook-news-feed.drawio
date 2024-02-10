@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T07:04:36.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.2" etag="di49dkcLuMqZprYhmcJb" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-10T08:11:35.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2ihEpRcXgfz087Bsl-N5" version="23.1.2" type="github">
   <diagram name="Page-1" id="BTYB-R5RXOuTGf83OroQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VGMyVJOUinRj58D-rcPM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VGMyVJOUinRj58D-rcPM-1" target="VGMyVJOUinRj58D-rcPM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGMyVJOUinRj58D-rcPM-1" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;General Requirements&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px; background-color: initial;&quot;&gt;&lt;b&gt;Specific Requirements&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px; background-color: initial;&quot;&gt;&lt;b&gt;Components Architecture&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Date Entities&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Data API&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Date Store&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Infinite Scroll&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Optimization&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Accessibility&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VGMyVJOUinRj58D-rcPM-2" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Infinite scrollable news feed where stories appears based on user followers&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;user can like, share and comment on the story&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;user can post new stories which can have images, links, videos, comments&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VGMyVJOUinRj58D-rcPM-4" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Support Multiple Devices&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Accessible for people with&amp;nbsp;disabilities&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VGMyVJOUinRj58D-rcPM-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Requirements&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
